@@ -4,7 +4,7 @@ import { useEffect, useRef } from "react"
 
 const benefits = [
   {
-    title: "温かいチーム()()()()",
+    title: "温かいチーム",
     description: "経験豊富な先輩たちが、あなたの成長を全力でサポートします。困ったときはいつでも相談できる環境です。",
   },
   {
